@@ -1,0 +1,25 @@
+Browser Extension Security Review Report
+
+Date: [23/02/2026]
+Browser: Google Chrome
+
+Installed Extensions Observed:
+1. Adobe Photoshop
+2. McAfee WebAdvisor
+3. Photoshop Online
+
+Analysis:
+- Adobe Photoshop is an official extension from Adobe and is used for legitimate image editing tasks.
+- McAfee WebAdvisor provides security-related features such as warning against malicious websites.
+- Photoshop Online is a third-party extension providing similar functionality to Adobe Photoshop.
+
+Action Taken:
+- Photoshop Online extension was removed due to redundancy and to minimize unnecessary permissions.
+
+Security Impact:
+- Reduced risk from third-party extensions
+- Improved browser hygiene
+- Lowered attack surface
+
+Final Status:
+Only essential and trusted browser extensions remain installed.
